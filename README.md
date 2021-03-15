@@ -1,6 +1,8 @@
 # Pencatatan Data Mahasiswa
-
 DIbuat menggunakan Laravel 7.x dan bootstrap
+PHP Version: 7.4.11
+
+Database terlampir pada folder databaseSql. Sehingga bisa langsung kalian import ke phpmyadmin kalian
 
 # Web View
 ## welcome page
