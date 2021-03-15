@@ -4,13 +4,13 @@ DIbuat menggunakan Laravel 7.x dan bootstrap
 
 ## Web View
 # welcome page
-<img src="/docs/welcome.png" alt="Welcome image"/>
+<img src="/docs/images/welcome.png" alt="Welcome image"/>
 
 # Home page
-<img src="/docs/home.png" alt="Home image"/>
+<img src="/docs/images/home.png" alt="Home image"/>
 
 # Tambah page
-<img src="/docs/tambah.png" alt="Tambah image"/>
+<img src="/docs/images/tambah.png" alt="Tambah image"/>
 
 # Edit page
-<img src="/docs/edit.png" alt="Edit image"/>
+<img src="/docs/images/edit.png" alt="Edit image"/>
